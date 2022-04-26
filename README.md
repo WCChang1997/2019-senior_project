@@ -14,6 +14,10 @@
     </details>
 
 ## 校內決賽：設計可在虛擬實境模擬足部力回饋之氣動鞋
+- Demo 影片
+    - [獨木橋](https://drive.google.com/file/d/10-_aVhBsvd1R7um6ZuewNYIhKlsaCvP0/view?usp=sharing)
+    - [3D Doodle Jump](https://drive.google.com/file/d/1LC3ISLwx0A03yEeEU4zsSdUCebVaMxr8/view?usp=sharing)
+    - [3D Doodle Jump - foot](https://drive.google.com/file/d/1q2RQ1HnSRYuRH4uI9RxiBFu-V8hrgZs2/view?usp=sharing)
 <details>
   <summary>決賽海報</summary>
   <img src="https://github.com/WCChang1997/2019-senior_project/blob/main/%E6%B1%BA%E8%B3%BD%E6%B5%B7%E5%A0%B1.jpg?raw=true">
