@@ -14,7 +14,7 @@
     </details>
 
 ## 校內決賽：設計可在虛擬實境模擬足部力回饋之氣動鞋
-- Demo 影片
+- Demo 影片（建議靜音）
     - [獨木橋](https://drive.google.com/file/d/10-_aVhBsvd1R7um6ZuewNYIhKlsaCvP0/view?usp=sharing)
     - [3D Doodle Jump](https://drive.google.com/file/d/1LC3ISLwx0A03yEeEU4zsSdUCebVaMxr8/view?usp=sharing)
     - [3D Doodle Jump - foot](https://drive.google.com/file/d/1q2RQ1HnSRYuRH4uI9RxiBFu-V8hrgZs2/view?usp=sharing)
